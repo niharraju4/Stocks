@@ -30,10 +30,7 @@ To run this project, you need to have Python installed on your system. You can i
 pip install alpaca_trade_api pandas matplotlib seaborn numpy scikit-learn scipy
 ```
 
-## Usage
 
-1. Replace `YOUR_API_KEY` and `YOUR_API_SECRET` with your Alpaca API key and secret in the script.
-2. Run the script to retrieve and analyze stock data.
 
 ```bash
 python stock_analysis.py
