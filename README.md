@@ -1,5 +1,7 @@
 
 ### README.md
+![STOCKS](https://github.com/user-attachments/assets/06730a90-3659-4dd0-a63f-afb782d74f39)
+
 
 ```markdown
 # Stock Price Analysis and Prediction
