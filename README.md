@@ -12,17 +12,17 @@ This project aims to analyze and predict stock prices using historical data retr
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Retrieval](#data-retrieval)
-- [Data Preparation](#data-preparation)
-- [Analysis](#analysis)
-- [Machine Learning Models](#machine-learning-models)
-- [Results](#results)
-- [Findings](#findings)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Data Retrieval](#data-retrieval)
+4. [Data Preparation](#data-preparation)
+5. [Analysis](#analysis)
+6. [Machine Learning Models](#machine-learning-models)
+7. [Results](#results)
+8. [Findings](#findings)
+9. [Contributing](#contributing)
+10. [License](#license)
+11. [Author](#author)
 
 ## Installation
 
